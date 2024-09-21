@@ -1,0 +1,9 @@
+D:\Facultate 3.1\Python\Lab3\ex1.py
+D:\Facultate 3.1\Python\Lab3\ex2.py
+D:\Facultate 3.1\Python\Lab3\ex3.py
+D:\Facultate 3.1\Python\Lab3\ex4.py
+D:\Facultate 3.1\Python\Lab3\ex5.py
+D:\Facultate 3.1\Python\Lab3\ex6.py
+D:\Facultate 3.1\Python\Lab3\ex7.py
+D:\Facultate 3.1\Python\Lab3\ex8.py
+D:\Facultate 3.1\Python\Lab3\ex9.py
